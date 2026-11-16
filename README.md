@@ -1,1 +1,3 @@
-# trip-live
+# Daybook
+
+A private page. Its content is encrypted.
